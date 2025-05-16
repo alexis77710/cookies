@@ -1,5 +1,5 @@
 /*
-* Desarrollador: Bryan Antamba
+* Desarrollador: Alexis Arcos
 * Fecha: 15/05/2025
 * Descripcion: Desarrollo de clase productos de servlet para poder mostrar los productos mediante una tabla
 * */
