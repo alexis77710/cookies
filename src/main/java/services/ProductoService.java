@@ -1,4 +1,4 @@
-/*Desarrollador: Bryan Antamba
+/*Desarrollador: Alexis Arcos
 * Fecha: 15/05/2025
 * Descripcion: Desarrollo de una clase para poder mostrar la clase Productos con sus atributos para que sean transformado
 * en una lista cada uno de los atributos de la clase mediante un metodo.*/
