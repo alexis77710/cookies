@@ -1,5 +1,5 @@
 /*
-* Desarrollo: Bryan Antamba
+* Desarrollo: Alexis Arcos
 * Fecha: 15/05/2025
 * Descripcion: Desarrollo de clase Login para que el cliente ingrese los datos requeridos para poder ingresar
 * y tener un vistaso de las coockies*/
