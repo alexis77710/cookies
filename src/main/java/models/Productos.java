@@ -1,4 +1,4 @@
-/*Desarrollador: Bryan Antamba
+/*Desarrollador: Alexis Arcos
 * Fecha: 15/05/2025
 * Descripcion: Desarrollo de clase con atributos y metodos instanciados con un constructor apra poder mostrar
 * los atributos y que sean llamados en otra clase.*/
