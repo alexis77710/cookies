@@ -1,4 +1,4 @@
-<!--Desarrollador: Bryan Antamba
+<!--Desarrollador: Alexis Arcos
 Fecha: 15/05/2025
 Descripcion: Desarrollo de HTML en archivo jsp  para la visualizacion de el ingreso al ingreso de los datos
 del cliente al ingresar a la ruta del jsp.-->
