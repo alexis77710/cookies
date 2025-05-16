@@ -1,4 +1,4 @@
-/*Desarrollador: Bryan Antamba
+/*Desarrollador: Alexis Arcos
 * Fecha: 15/05/2025
 * Descripcion: Desarrollo de clase para poder mostrar mediante una retornacion la lista de la clase productos
 * el cual acompaña de un objeto donde se desarrolla un arreglo de tipo listado que contendra una cadena de
